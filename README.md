@@ -17,17 +17,17 @@
 - **Problem Solving:** Data Structures & Algorithms
 
 ## 🌐 Connect with Me
-
 - [GitHub](https://github.com/arpitkesharwani77)
 - [LinkedIn](https://www.linkedin.com/in/arpit991/)
 
 
 ## 📈 GitHub Stats
-
 [![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitkesharwani77&show_icons=true&theme=radical)](https://github.com/arpitkesharwani77)
 
-## 📚 Featured Projects
+## Programming Language Profile    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkumar2811&layout=compact&theme=radical) 
 
+## 📚 Featured Projects
 - [Project 1](#) - Brief description and link to the project.
 - [Project 2](#) - Brief description and link to the project.
 
