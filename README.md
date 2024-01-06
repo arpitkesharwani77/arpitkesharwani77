@@ -19,8 +19,8 @@
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/arpitkesharwani77)
-- [LinkedIn](https://www.linkedin.com/in/arpitkesharwani/)
-- [Twitter](https://twitter.com/arpitkesharwani)
+- [LinkedIn](https://www.linkedin.com/in/arpit991/)
+
 
 ## 📈 GitHub Stats
 
