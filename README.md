@@ -1,16 +1,34 @@
-### Hi there 👋
+# Arpit Kesharwani
 
-<!--
-**arpitkesharwani77/arpitkesharwani77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Arpit Kesharwani, an aspiring web developer passionate about creating meaningful and innovative web applications. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently exploring the world of web development and working on enhancing my skills.
+- 🌱 I have a strong foundation in Python programming language and Data Structures & Algorithms (DSA).
+- 💻 I'm proficient in HTML and CSS for building engaging and responsive user interfaces.
+- 🧠 I've solved more than 100+ coding problems on LeetCode, honing my problem-solving skills.
+- 📧 You can reach out to me at [arpitkesharwani77@gmail.com](mailto:arpitkesharwani77@gmail.com) for any collaboration or inquiry.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, HTML, CSS
+- **Tools:** Visual Studio Code, Git
+- **Problem Solving:** Data Structures & Algorithms
+
+## 🌐 Connect with Me
+
+- [GitHub](https://github.com/arpitkesharwani77)
+- [LinkedIn](https://www.linkedin.com/in/arpitkesharwani/)
+- [Twitter](https://twitter.com/arpitkesharwani)
+
+## 📈 GitHub Stats
+
+[![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitkesharwani77&show_icons=true&theme=radical)](https://github.com/arpitkesharwani77)
+
+## 📚 Featured Projects
+
+- [Project 1](#) - Brief description and link to the project.
+- [Project 2](#) - Brief description and link to the project.
+
+Feel free to explore my repositories, and don't hesitate to get in touch! Happy coding! 👨‍💻✨
