@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkumar2811&layout=compact&theme=radical) 
 
 ## 📚 Featured Projects
-- [Project 1](#) - Brief description and link to the project.
-- [Project 2](#) - Brief description and link to the project.
+- [Terminal based maze solver](https://github.com/arpitkesharwani77/Terminal-based-maze-solver) - This Python script generates a random maze, allows the user to find a path from the start to the end, and provides options to print the maze, generate another puzzle, or exit the game.
+- [CLI text editor](https://github.com/arpitkesharwani77/text-editor-and-directory-and-file-manipulation) - This command-line interface (CLI) tool allows you to perform various file and directory management operations.
 
 Feel free to explore my repositories, and don't hesitate to get in touch! Happy coding! 👨‍💻✨
