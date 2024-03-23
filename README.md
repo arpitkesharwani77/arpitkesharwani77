@@ -7,7 +7,7 @@
 - 🔭 I'm currently exploring the world of web development and working on enhancing my skills.
 - 🌱 I have a strong foundation in Python programming language and Data Structures & Algorithms (DSA).
 - 💻 I'm proficient in HTML and CSS for building engaging and responsive user interfaces.
-- 🧠 I've solved more than 100+ coding problems on LeetCode, honing my problem-solving skills.
+- 🧠 I've solved more than 150+ coding problems on LeetCode, honing my problem-solving skills.
 - 📧 You can reach out to me at [arpitkesharwani77@gmail.com](mailto:arpitkesharwani77@gmail.com) for any collaboration or inquiry.
 
 ## 🛠️ Tech Stack
