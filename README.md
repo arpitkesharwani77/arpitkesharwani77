@@ -1,34 +1,111 @@
-# Arpit Kesharwani
 
-👋 Hello, I'm Arpit Kesharwani, an aspiring web developer passionate about creating meaningful and innovative web applications. Welcome to my GitHub profile!
-
-## 🚀 About Me
-
-- 🔭 I'm currently exploring the world of web development and working on enhancing my skills.
-- 🌱 I have a strong foundation in Python programming language and Data Structures & Algorithms (DSA).
-- 💻 I'm proficient in HTML and CSS for building engaging and responsive user interfaces.
-- 🧠 I've solved more than 150+ coding problems on LeetCode, honing my problem-solving skills.
-- 📧 You can reach out to me at [arpitkesharwani77@gmail.com](mailto:arpitkesharwani77@gmail.com) for any collaboration or inquiry.
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, HTML, CSS
-- **Tools:** Visual Studio Code, Git
-- **Problem Solving:** Data Structures & Algorithms
-
-## 🌐 Connect with Me
-- [GitHub](https://github.com/arpitkesharwani77)
-- [LinkedIn](https://www.linkedin.com/in/arpit991/)
+# 🚀 **Arpit Kesharwani**
 
 
-## 📈 GitHub Stats
-[![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitkesharwani77&show_icons=true&theme=radical)](https://github.com/arpitkesharwani77)
 
-## Programming Language Profile    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkumar2811&layout=compact&theme=radical) 
+👋 Hi, I'm **Arpit Kesharwani** — a Backend Developer currently working at **Third Eye Creative**. I specialize in building reliable, scalable, and production-ready backend systems, and I enjoy turning complex ideas into powerful real-world applications.
 
-## 📚 Featured Projects
-- [Terminal based maze solver](https://github.com/arpitkesharwani77/Terminal-based-maze-solver) - This Python script generates a random maze, allows the user to find a path from the start to the end, and provides options to print the maze, generate another puzzle, or exit the game.
-- [CLI text editor](https://github.com/arpitkesharwani77/text-editor-and-directory-and-file-manipulation) - This command-line interface (CLI) tool allows you to perform various file and directory management operations.
+---
 
-Feel free to explore my repositories, and don't hesitate to get in touch! Happy coding! 👨‍💻✨
+## 🔥 **Badges**
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-Flask-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-FastAPI-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-Django-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Framework-Node.js-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Deployment-purple?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 **About Me**
+
+* 💼 **Backend Developer** with ~1 year of professional experience at *Third Eye Creative*
+* 🔧 Worked on multiple production-level projects:
+
+  * **Step A – NEET PG Mobile App** – Backend development & API integrations
+  * **NDB – Citizen Management Application**
+  * **Space Luggage – Inventory & Logistics Management App**
+  * Several internal & client-side projects
+* 🐍 Strong in **Python**, **Flask**, **FastAPI**, **MySQL**, **Django**, **MongoDB**, **Node.js**
+* 🌐 Skilled in **HTML, CSS, JavaScript, React**
+* 🧠 Completed **150+ DSA problems on LeetCode**
+* 🎯 Passionate about clean code, scalable architecture, and building real-world apps
+* 📧 Email: **[arpitkesharwani77@gmail.com](mailto:arpitkesharwani77@gmail.com)**
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Backend**
+
+* Python
+* Flask • FastAPI
+* MySQL
+* REST APIs
+* Authentication / Authorization
+* Scalable Architecture
+
+### **Frontend**
+
+* HTML • CSS
+* JavaScript
+* React
+
+### **Other Skills**
+
+* Git & GitHub
+* Node.js
+* MongoDB
+* Data Structures & Algorithms
+
+---
+
+## 🌐 **Connect With Me**
+
+* **GitHub:** [https://github.com/arpitkesharwani77](https://github.com/arpitkesharwani77)
+* **LinkedIn:** [https://www.linkedin.com/in/arpit991](https://www.linkedin.com/in/arpit991)
+
+---
+
+# 📊 **GitHub Stats **
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arpitkesharwani77&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arpitkesharwani77&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+# 🐍 **Contribution Graph Snake**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 📚 **Featured Projects**
+
+### **• Terminal-based Maze Solver**
+
+A Python script that generates random mazes and lets users solve them interactively.
+🔗 [https://github.com/arpitkesharwani77/Terminal-based-maze-solver](https://github.com/arpitkesharwani77/Terminal-based-maze-solver)
+
+### **• CLI Text Editor & File Manager**
+
+A command-line tool for file editing and directory operations.
+🔗 [https://github.com/arpitkesharwani77/text-editor-and-directory-and-file-manipulation](https://github.com/arpitkesharwani77/text-editor-and-directory-and-file-manipulation)
+
+---
+
+✨ *Thank you for visiting my profile!*
+👨‍💻 **Happy Coding!**
+
+---
+
