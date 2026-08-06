@@ -68,7 +68,7 @@
 
 ## 🌐 **Connect With Me**
 
-* **GitHub:** [https://github.com/arpitkesharwani77](https://github.com/arpitkesharwani77)
+* **portfolio:** [https://arpit77.netlify.app/](https://arpit77.netlify.app/)
 * **LinkedIn:** [https://www.linkedin.com/in/arpit991](https://www.linkedin.com/in/arpit991)
 
 ---
