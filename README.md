@@ -56,6 +56,10 @@
 * HTML • CSS
 * JavaScript
 * React
+### **Database**
+*Posgres*
+*Mysql*
+*MongoDB*
 
 ### **Other Skills**
 
