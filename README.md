@@ -3,7 +3,7 @@
 
 
 
-👋 Hi, I'm **Arpit Kesharwani** — a Backend Developer currently working at **Third Eye Creative**. I specialize in building reliable, scalable, and production-ready backend systems, and I enjoy turning complex ideas into powerful real-world applications.
+👋 Hi, I'm **Arpit Kesharwani** — a Full stack Developer currently working at **Third Eye Creative**. I specialize in building reliable, scalable, and production-ready backend systems, and I enjoy turning complex ideas into powerful real-world applications.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 🚀 **About Me**
 
-* 💼 **Backend Developer** with ~1 year of professional experience at *Third Eye Creative*
+* 💼 **Backend Developer** with ~2 year of professional experience at *Third Eye Creative*
 * 🔧 Worked on multiple production-level projects:
 
   * **Step A – NEET PG Mobile App** – Backend development & API integrations
