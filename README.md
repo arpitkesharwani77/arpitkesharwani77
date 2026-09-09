@@ -57,9 +57,9 @@
 * JavaScript
 * React
 ### **Database**
-*Posgres*
-*Mysql*
-*MongoDB*
+* PostgreSQL
+* Mysql
+* MongoDB
 
 ### **Other Skills**
 
